@@ -1,0 +1,82 @@
+#carousel{
+	padding: 250px 0px;
+}
+ #carousel h2{
+	color: yellow;
+ }
+ #carousel p{
+	color: greenyellow;
+    font-size: 18px;
+    font-weight: bold;
+ }
+#card i{
+	color: sandybrown;
+    font-size: 30px;
+    padding: 10px 150px;
+}
+#text{
+	width: 150px;
+    margin: 0 auto;
+    height: 5px;
+    background-color: sandybrown;
+}
+#btn-custom{
+    background-color: sandybrown;
+    color: aliceblue;
+}
+#about-text {
+	line-height:30px;
+}
+#offer{
+	background-color:rgba(248,255,0,1.00);
+}
+#underline{
+	width: 280px;
+    margin: 0 auto;
+    height: 2px;
+    background-color: sandybrown;
+}
+#media i{
+	padding: 20px;
+    background-color: #363636;
+    color: #efb925;
+    border: 4px solid #efb925;
+    font-size: 22px;
+	margin-right:15px;
+}
+#card-color{
+	color:#F4A460;
+}
+#achivement {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding-bottom: 80px;
+	padding-top: 80px;
+	background-image:url(../img/pexels-photo-259984.jpg);
+    background-attachment: fixed;
+	background-size: cover;
+	color: aliceblue;
+}
+
+#achivement .card{
+	margin-top: 20px;
+	color: sandybrown;
+	text-align: center;
+	background-color: transparent;
+	font-weight: 600;
+}
+#team i{
+	color: chocolate;
+    font-size: 22px
+}
+.card{
+	border:none;
+}
+
+/**---End---**/
+
+
+
+
+
+
